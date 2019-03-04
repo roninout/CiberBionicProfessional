@@ -1,0 +1,5 @@
+C:\С#\CiberBionic\Professional\HomeWork\L06_Task02\bin\Debug\L06_Task02.dll
+C:\С#\CiberBionic\Professional\HomeWork\L06_Task02\bin\Debug\L06_Task02.pdb
+C:\С#\CiberBionic\Professional\HomeWork\L06_Task02\obj\Debug\L06_Task02.csproj.CoreCompileInputs.cache
+C:\С#\CiberBionic\Professional\HomeWork\L06_Task02\obj\Debug\L06_Task02.dll
+C:\С#\CiberBionic\Professional\HomeWork\L06_Task02\obj\Debug\L06_Task02.pdb
