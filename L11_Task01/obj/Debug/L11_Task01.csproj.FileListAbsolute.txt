@@ -1,0 +1,6 @@
+C:\С#\CiberBionic\Professional\HomeWork\L11_Task01\bin\Debug\L11_Task01.exe.config
+C:\С#\CiberBionic\Professional\HomeWork\L11_Task01\bin\Debug\L11_Task01.exe
+C:\С#\CiberBionic\Professional\HomeWork\L11_Task01\bin\Debug\L11_Task01.pdb
+C:\С#\CiberBionic\Professional\HomeWork\L11_Task01\obj\Debug\L11_Task01.csproj.CoreCompileInputs.cache
+C:\С#\CiberBionic\Professional\HomeWork\L11_Task01\obj\Debug\L11_Task01.exe
+C:\С#\CiberBionic\Professional\HomeWork\L11_Task01\obj\Debug\L11_Task01.pdb
