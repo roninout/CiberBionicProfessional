@@ -1,0 +1,19 @@
+﻿<Window x:Class="L03_Task04.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:L03_Task04"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="313.561" Width="390.254" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40*"/>
+            <ColumnDefinition Width="151*"/>
+        </Grid.ColumnDefinitions>
+        <xctk:ColorPicker Name="ClrPcker" Margin="20,76,78,163" HorizontalAlignment="Center" VerticalAlignment="Center" Width="204" Height="44" SelectedColorChanged="ClrPcker_SelectedColorChanged" Grid.Column="1"></xctk:ColorPicker>
+        <Button x:Name="Button1" Content="Save" HorizontalAlignment="Left" Height="56" Margin="20,184,0,0" VerticalAlignment="Top" Width="204" Click="Button1_Click" Grid.Column="1"/>
+        <Label x:Name="Label1" Content="Color empty" HorizontalAlignment="Left" Margin="20,137,0,0" VerticalAlignment="Top" Width="204" Height="26" Grid.Column="1"/>
+    </Grid>
+</Window>
