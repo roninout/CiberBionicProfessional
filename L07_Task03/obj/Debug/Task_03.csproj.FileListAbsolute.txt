@@ -1,0 +1,29 @@
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\ghhgj\bin\Debug\Task_03.exe.config
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\ghhgj\bin\Debug\Task_03.exe
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\ghhgj\bin\Debug\Task_03.pdb
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\ghhgj\obj\Debug\Additional_Task.Form1.resources
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\ghhgj\obj\Debug\Task_03.Properties.Resources.resources
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\ghhgj\obj\Debug\Task_03.csproj.GenerateResource.cache
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\ghhgj\obj\Debug\Task_03.csproj.CoreCompileInputs.cache
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\ghhgj\obj\Debug\Task_03.exe
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\ghhgj\obj\Debug\Task_03.pdb
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\Task_03\bin\Debug\Task_03.exe.config
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\Task_03\bin\Debug\Task_03.exe
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\Task_03\bin\Debug\Task_03.pdb
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\Task_03\obj\Debug\Task_03.csprojAssemblyReference.cache
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\Task_03\obj\Debug\Additional_Task.Form1.resources
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\Task_03\obj\Debug\Task_03.Properties.Resources.resources
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\Task_03\obj\Debug\Task_03.csproj.GenerateResource.cache
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\Task_03\obj\Debug\Task_03.csproj.CoreCompileInputs.cache
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\Task_03\obj\Debug\Task_03.exe
+D:\Khrolenko\C#\CyberBionic Courses\Professional\Lesson_007\Task_03\obj\Debug\Task_03.pdb
+C:\Users\ron_in\Downloads\Lesson_007\Task_03\bin\Debug\Task_03.exe.config
+C:\Users\ron_in\Downloads\Lesson_007\Task_03\bin\Debug\Task_03.exe
+C:\Users\ron_in\Downloads\Lesson_007\Task_03\bin\Debug\Task_03.pdb
+C:\Users\ron_in\Downloads\Lesson_007\Task_03\obj\Debug\Task_03.csprojAssemblyReference.cache
+C:\Users\ron_in\Downloads\Lesson_007\Task_03\obj\Debug\Additional_Task.Form1.resources
+C:\Users\ron_in\Downloads\Lesson_007\Task_03\obj\Debug\Task_03.Properties.Resources.resources
+C:\Users\ron_in\Downloads\Lesson_007\Task_03\obj\Debug\Task_03.csproj.GenerateResource.cache
+C:\Users\ron_in\Downloads\Lesson_007\Task_03\obj\Debug\Task_03.csproj.CoreCompileInputs.cache
+C:\Users\ron_in\Downloads\Lesson_007\Task_03\obj\Debug\Task_03.exe
+C:\Users\ron_in\Downloads\Lesson_007\Task_03\obj\Debug\Task_03.pdb
