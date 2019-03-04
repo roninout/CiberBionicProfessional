@@ -1,0 +1,7 @@
+C:\С#\CiberBionic\Professional\HomeWork\L02_TaskAdd01\L02_TaskAdd01\bin\Debug\L02_TaskAdd01.exe.config
+C:\С#\CiberBionic\Professional\HomeWork\L02_TaskAdd01\L02_TaskAdd01\bin\Debug\L02_TaskAdd01.exe
+C:\С#\CiberBionic\Professional\HomeWork\L02_TaskAdd01\L02_TaskAdd01\bin\Debug\L02_TaskAdd01.pdb
+C:\С#\CiberBionic\Professional\HomeWork\L02_TaskAdd01\L02_TaskAdd01\obj\Debug\L02_TaskAdd01.csprojAssemblyReference.cache
+C:\С#\CiberBionic\Professional\HomeWork\L02_TaskAdd01\L02_TaskAdd01\obj\Debug\L02_TaskAdd01.csproj.CoreCompileInputs.cache
+C:\С#\CiberBionic\Professional\HomeWork\L02_TaskAdd01\L02_TaskAdd01\obj\Debug\L02_TaskAdd01.exe
+C:\С#\CiberBionic\Professional\HomeWork\L02_TaskAdd01\L02_TaskAdd01\obj\Debug\L02_TaskAdd01.pdb
